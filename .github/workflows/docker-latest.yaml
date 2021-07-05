@@ -1,4 +1,4 @@
-name: Auto publish Docker image
+name: Auto publish Docker development image
 on:
   push:
     branches: [master]
